@@ -11,7 +11,7 @@ Semantic token color settings have been added specifically for enhancing the ren
 
 *Screenshot of sample XSLT 3.0*
 
-<img src="https://github.com/pgfearo/nord-xslt-vscode/blob/master/xslt-vscode-nord.png">
+<img src="xslt-vscode-nord.png">
 
 ---
 
