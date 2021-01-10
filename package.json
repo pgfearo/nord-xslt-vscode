@@ -1,0 +1,21 @@
+{
+    "name": "nord-xslt",
+    "displayName": "nord-xslt",
+    "description": "Extended Nord Color Theme ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "NordXSLT",
+                "uiTheme": "vs-dark",
+                "path": "./themes/NordXSLT-color-theme.json"
+            }
+        ]
+    }
+}
