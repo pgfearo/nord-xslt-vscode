@@ -2,6 +2,7 @@
     "name": "nord-xslt",
     "displayName": "nord-xslt",
     "description": "Extended Nord Color Theme ",
+    "publisher": "pgfearo",
     "repository": {
         "url": "https://github.com/pgfearo/nord-xslt-vscode"
     },
