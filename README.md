@@ -11,7 +11,7 @@ Semantic token color settings have been added specifically for enhancing the ren
 
 *Screenshot of sample XSLT 3.0*
 
-<img src="xslt-vscode-nord.png">
+<img src="https://github.com/pgfearo/nord-xslt-vscode/blob/master/xslt-vscode-nord.png">
 
 ---
 
@@ -19,15 +19,15 @@ Here are the token color settings:
 
 ```
 	"semanticTokenColors": {
-    "variable": "#ebcb8b",
-    "attributeName": "#bac1ce",
-    "xmlPunctuation": "#616e88",
-    "attributeNameTest": "#dfd28c",
-    "number": "#bf616a",
-    "xmlText": "#eceff4",
-    "anonymousFunction": "#d08770",
-		"xmlnsName": "#8FBCBB",
-		"keyword": "#b48ead",
-		"axisName": "#a3be8c"
+      "variable": "#ebcb8b",
+      "attributeName": "#bac1ce",
+      "xmlPunctuation": "#616e88",
+      "attributeNameTest": "#dfd28c",
+      "number": "#bf616a",
+      "xmlText": "#eceff4",
+      "anonymousFunction": "#d08770",
+      "xmlnsName": "#8FBCBB",
+      "keyword": "#b48ead",
+      "axisName": "#a3be8c"
 	},
 ```
